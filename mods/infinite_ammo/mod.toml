@@ -1,0 +1,5 @@
+name     = "Infinite Ammo"
+version  = "1.0"
+author   = "User"
+priority = 10
+enabled  = true
